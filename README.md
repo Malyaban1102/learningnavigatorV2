@@ -17,7 +17,9 @@ A RESTful API service built using Spring Boot to manage the exam enrollment proc
 2. Configure the MySQL database connection settings:
    
    spring.datasource.url = jdbc:mysql://localhost:3306/learning_navigatorV2
+   
    spring.datasource.username = root
+   
    spring.datasource.password = password
    
    Replace localhost, 3306, root, and password with your MySQL host, port, username and password respectively.
